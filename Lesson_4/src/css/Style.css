@@ -1,0 +1,15 @@
+#btn1{
+    -fx-background-image: url("file:images/Send.png");
+}
+
+#textArea {
+    -fx-text-fill: black;
+    -fx-background-color: transparent;
+}
+#textArea .content {
+    -fx-background-color: transparent;
+}
+#textArea .viewport {
+    -fx-background-image: url("file:images/back.jpg");
+    -fx-background-size: 100% 100%;
+}
